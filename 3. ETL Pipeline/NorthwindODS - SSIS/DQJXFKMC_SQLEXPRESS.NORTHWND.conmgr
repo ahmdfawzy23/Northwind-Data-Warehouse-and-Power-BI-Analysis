@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DQJXFKMC_SQLEXPRESS.NORTHWND"
+  DTS:DTSID="{A3111257-3D57-4BDF-A164-ADE8F86A0335}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DQJXFKMC\SQLEXPRESS;Initial Catalog=NORTHWND;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-NorthwindODS-{A3111257-3D57-4BDF-A164-ADE8F86A0335}DQJXFKMC\SQLEXPRESS.NORTHWND;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DQJXFKMC_SQLEXPRESS.NorthwindODS"
+  DTS:DTSID="{771271D6-EA9B-4787-94F2-A3DC8CB0DE0C}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DQJXFKMC\SQLEXPRESS;Initial Catalog=NorthwindODS;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-NorthwindODS-{771271D6-EA9B-4787-94F2-A3DC8CB0DE0C}DQJXFKMC\SQLEXPRESS.NorthwindODS;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
